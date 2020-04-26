@@ -28,9 +28,3 @@ Skills
 Research
 ======
 
-Projects
-======
-* CS224W
-* CS231N
-* CS229
-* CS224N
