@@ -5,4 +5,4 @@ collection: portfolio
 ---
 
 
-[report](../files/ml-report.pdf)
+[report](../../files/ml-report.pdf)
