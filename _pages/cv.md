@@ -40,6 +40,10 @@ Skills
   
 Research
 ======
-* Rivas Lab supervised by PI Manuel Rivas: Research in Bayesian joint model for time to event and longitudinal data using UK primary care data
-* Submitted for KDD supervised by Prof. Jure Leskovec and Dr. David Hallac: Deep learning model susing TCN and triplet loss for driver identification using time series data from driving simulators
+* Rivas Lab supervised by PI Manuel Rivas: Research in Bayesian joint model for time to event and longitudinal data using UK primary care data.
+* Submitted for KDD supervised by Prof. Jure Leskovec and Dr. David Hallac: Deep learning model susing TCN and triplet loss for driver identification using time series data from driving simulators.
 
+Teaching
+======
+* I was a teaching assistant of [CS246 Mining Massive Data](http://web.stanford.edu/class/cs246/) at Stanford University (2020 Winter).
+* During undergraduate time, I was a teaching assitant for Professor Jussi Keppo in Analytics in Managerial Economics, and Quantitative Risk Management for Master of Science in Business Analytics program at National University of Singapore.
