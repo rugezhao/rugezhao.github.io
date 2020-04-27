@@ -4,4 +4,4 @@ excerpt: "Course Project for CS224W Machine Learning with Graphs at Stanford Uni
 collection: portfolio
 ---
 
- 
+[report](../../files/gnnkg_final.pdf) [poster](../../files/gnn_kg_poster.pdf) 
